@@ -20,6 +20,6 @@ Author: Vasya Pupkin
 окна на необходимый текст и получаем надпись:<br>
 ```window = glfwCreateWindow( 640, 480, "Lesson 01 - RAINBOW - Рябов Андрей ПА-18-2", NULL, NULL);```
 ## Работа программы:
-![Пример 1]()
-![Пример 2]()
+![Пример 1](screenshots/1.png)
+![Пример 2](screenshots/2.png)
 ## Вывод:
